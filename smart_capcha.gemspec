@@ -31,6 +31,7 @@ Gem::Specification.new do |s|
     "lib/questionnaire.rb",
     "lib/smart_capcha.rb",
     "lib/smart_capcha_helper.rb",
+    "smart_capcha.gemspec",
     "test/helper.rb",
     "test/test_let-me-think.rb"
   ]
