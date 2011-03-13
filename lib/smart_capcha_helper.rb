@@ -11,4 +11,3 @@ module SmartCapcha
     end
   end
 end
-ActionController::Base.send :include SmartCapcha::Helper
