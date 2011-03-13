@@ -1,5 +1,5 @@
 Creates a template config file for the smart_capcha gem.
 To generate config file should be used the following command:
-  script/generate questionnaire_config
+  rails generate questionnaire_config questionnaire
 
 As a result will be created config/questionnaire.yml file with default settings.
